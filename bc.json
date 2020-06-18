@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e4bbd510-c44d-4005-9dff-9199e58da2f7.ws-us02.gitpod.io",
+    "address": "https://ad0a1031-aa3c-4b56-83f1-bd8f0fa85893.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -39,6 +39,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
@@ -49,6 +50,7 @@
         {
             "slug": "03-What-is-a-function",
             "title": "03-What-is-a-function",
+            "done": true,
             "path": "exercises/03-What-is-a-function",
             "translations": [
                 "es",
@@ -59,6 +61,7 @@
         {
             "slug": "04-Call-a-function",
             "title": "04-Call-a-function",
+            "done": true,
             "path": "exercises/04-Call-a-function",
             "translations": [
                 "es",
@@ -69,6 +72,7 @@
         {
             "slug": "05-Defining-vs-Calling-a-function",
             "title": "05-Defining-vs-Calling-a-function",
+            "done": true,
             "path": "exercises/05-Defining-vs-Calling-a-function",
             "translations": [
                 "es",
@@ -79,6 +83,7 @@
         {
             "slug": "06-Anonymous-functions",
             "title": "06-Anonymous-functions",
+            "done": true,
             "path": "exercises/06-Anonymous-functions",
             "translations": [
                 "es",
