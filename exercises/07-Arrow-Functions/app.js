@@ -1,7 +1,7 @@
 const rapid=(str)=>{
     for(let i=0; i<=str.lenght;i++)
-    var str2=str.toLowerCase(str[i])
-//   return str.replace(/[aeiou]/i
+  
+  return str.replace(/[aeiou]/ig,'');
 }
    // From this line up Do not change code below
    let str = "John";
