@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ad0a1031-aa3c-4b56-83f1-bd8f0fa85893.ws-eu01.gitpod.io",
+    "address": "https://ed64ec51-ff78-4f1c-882f-42a5401eb644.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -94,6 +94,7 @@
         {
             "slug": "07-Arrow-Functions",
             "title": "07-Arrow-Functions",
+            "done": true,
             "path": "exercises/07-Arrow-Functions",
             "translations": [
                 "es",
@@ -104,6 +105,7 @@
         {
             "slug": "08-Function-that-returns",
             "title": "08-Function-that-returns",
+            "done": true,
             "path": "exercises/08-Function-that-returns",
             "translations": [
                 "es",
@@ -114,6 +116,7 @@
         {
             "slug": "09-Function-parameters",
             "title": "09-Function-parameters",
+            "done": true,
             "path": "exercises/09-Function-parameters",
             "translations": [
                 "es",
@@ -124,6 +127,7 @@
         {
             "slug": "10-Array-Methods",
             "title": "10-Array-Methods",
+            "done": true,
             "path": "exercises/10-Array-Methods",
             "translations": [
                 "es",
